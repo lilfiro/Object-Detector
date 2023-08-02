@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\build\CMakeFiles\5b4ec197637dfbd3bc2af39f1200e574\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CB121A76-EC0D-3B6D-A927-BB9C86744686}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

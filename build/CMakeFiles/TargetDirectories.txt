@@ -1,0 +1,9 @@
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/Experimental.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/Nightly.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/Continuous.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/opencvtest.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/PACKAGE.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/ZERO_CHECK.dir

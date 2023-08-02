@@ -1,0 +1,11 @@
+    /*Mat image;
+    image = imread("C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/shuroko.png");
+    if (!image.data)
+    {
+        printf("No image data \n");
+        return -1;
+    }
+    namedWindow("Display Image", WINDOW_AUTOSIZE);
+    imshow("Display Image", image);
+    waitKey(0);
+    return 0;*/
