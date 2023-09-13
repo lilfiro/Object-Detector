@@ -1,9 +1,34 @@
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/Experimental.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/Nightly.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/Continuous.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/opencvtest.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/PACKAGE.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/Experimental.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/Nightly.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/Continuous.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyStart.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyUpdate.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyConfigure.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyBuild.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyTest.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyCoverage.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlyMemCheck.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/NightlySubmit.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalStart.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalUpdate.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalConfigure.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalBuild.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalTest.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalCoverage.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalMemCheck.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ExperimentalSubmit.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousStart.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousUpdate.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousConfigure.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousBuild.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousTest.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousCoverage.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousMemCheck.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/ContinuousSubmit.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/opencvtest.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/package.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/package_source.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/test.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/edit_cache.dir
+C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/rebuild_cache.dir

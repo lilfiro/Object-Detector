@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Firo/Documents/GitHub/objectdet/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/Users/Firo/Documents/opencv/build/include -g -o CMakeFiles\\opencvtest.dir\\main.cpp.obj -c C:\\Users\\Firo\\Documents\\GitHub\\objectdet\\main.cpp",
+  "file": "C:\\Users\\Firo\\Documents\\GitHub\\objectdet\\main.cpp",
+  "output": "CMakeFiles\\opencvtest.dir\\main.cpp.obj"
+}
+]
