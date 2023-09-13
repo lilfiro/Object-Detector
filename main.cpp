@@ -26,7 +26,7 @@ int main(int argc, char **argv)
         cap >> background;
         flip(background, background, 1);
         cvtColor(background, background, COLOR_BGR2GRAY);
-        background = background(roi); 
+        background = background(roi);
     }
 
     while (true)
@@ -35,27 +35,27 @@ int main(int argc, char **argv)
         flip(frame, frame, 1);
 
         cvtColor(frame, frame, COLOR_BGR2GRAY);
-        frame = frame(roi); // Ekranın sağ üst köşesini al
+        frame = frame(roi); // Kameranin sag ust kosesini alir
 
-        // İki ardışık kare arasındaki farkı al
+        // iki kare farki
         absdiff(background, frame, diff_frame);
 
-        // Fark resmini eşikle
+        // Fark resmini esikler
         threshold(diff_frame, threshold_frame, 25, 255, THRESH_BINARY);
 
-        // Gürültüyü azaltmak için birkaç kez erozyon ve genişleme yap
+        // Gurultuyu azaltmaya calisir
         erode(threshold_frame, threshold_frame, getStructuringElement(MORPH_RECT, Size(3, 3)));
         dilate(threshold_frame, threshold_frame, getStructuringElement(MORPH_RECT, Size(3, 3)));
         erode(threshold_frame, threshold_frame, getStructuringElement(MORPH_RECT, Size(3, 3)));
         dilate(threshold_frame, threshold_frame, getStructuringElement(MORPH_RECT, Size(3, 3)));
 
-        // Kenarları tespit etmek için Canny algoritmasını kullan
+        // Kenarları tespit etmek icin Canny algoritmasi
         Canny(threshold_frame, threshold_frame, 50, 150, 3);
 
         vector<vector<Point>> contours;
         findContours(threshold_frame, contours, RETR_TREE, CHAIN_APPROX_SIMPLE);
 
-        // En büyük konturu bul
+        // En buyuk konturu bulur
         int largest_contour_index = -1;
         double largest_area = 0.0;
         for (int i = 0; i < contours.size(); i++)
@@ -67,7 +67,7 @@ int main(int argc, char **argv)
                 largest_contour_index = i;
             }
         }
-        
+
         if (largest_contour_index >= 0)
         {
             drawContours(frame, contours, largest_contour_index, Scalar(0, 255, 0), 2);
