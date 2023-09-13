@@ -1,6 +1,6 @@
-^C:\USERS\FIRO\DESKTOP\STUFF\OTHER\CODE STUFF\TEST STUFF\CMAKELISTS.TXT
+^C:\USERS\FIRO\DOCUMENTS\GITHUB\OBJECTDET\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff" "-BC:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build" --check-stamp-file "C:/Users/Firo/Desktop/Stuff/Other/Code Stuff/Test Stuff/build/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Firo/Documents/GitHub/objectdet -BC:/Users/Firo/Documents/GitHub/objectdet/build --check-stamp-file C:/Users/Firo/Documents/GitHub/objectdet/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

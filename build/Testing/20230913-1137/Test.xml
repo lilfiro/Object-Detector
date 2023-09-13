@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Site BuildName="Win32-ninja"
+<Site BuildName="Win32-MSBuild"
 	BuildStamp="20230913-1137-Experimental"
 	Name="DESKTOP-82M4JNE"
 	Generator="ctest-3.26.1"
-	CompilerName="C:/msys64/mingw64/bin/g++.exe"
-	CompilerVersion="12.2.0"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.35.32215/bin/Hostx86/x64/cl.exe"
+	CompilerVersion="19.35.32216.1"
 	OSName="Windows"
 	Hostname="DESKTOP-82M4JNE"
 	OSRelease=" Personal"
@@ -24,11 +24,11 @@
 	ProcessorClockFrequency="2592"
 	>
 	<Testing>
-		<StartDateTime>Sep 13 14:37 Turkey Standard Time</StartDateTime>
-		<StartTestTime>1694605025</StartTestTime>
+		<StartDateTime>Sep 13 14:44 Turkey Standard Time</StartDateTime>
+		<StartTestTime>1694605448</StartTestTime>
 		<TestList/>
-		<EndDateTime>Sep 13 14:37 Turkey Standard Time</EndDateTime>
-		<EndTestTime>1694605025</EndTestTime>
+		<EndDateTime>Sep 13 14:44 Turkey Standard Time</EndDateTime>
+		<EndTestTime>1694605448</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

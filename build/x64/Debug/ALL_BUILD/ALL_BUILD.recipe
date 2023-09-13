@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\Firo\Documents\GitHub\objectdet\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\build\Debug\opencvtest.exe</FullPath>
+      <FullPath>C:\Users\Firo\Documents\GitHub\objectdet\build\Debug\opencvtest.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\Users\Firo\Documents\GitHub\objectdet\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

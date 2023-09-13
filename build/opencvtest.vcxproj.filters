@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\main.cpp">
+    <ClCompile Include="C:\Users\Firo\Documents\GitHub\objectdet\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Firo\Desktop\Stuff\Other\Code Stuff\Test Stuff\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Firo\Documents\GitHub\objectdet\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{E310CEC0-F230-31D6-9021-5BE9AFD64A23}</UniqueIdentifier>
+      <UniqueIdentifier>{EC87AF59-E96C-3BD4-B33B-50CBD037409E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
